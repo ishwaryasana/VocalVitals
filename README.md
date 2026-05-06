@@ -87,3 +87,5 @@ If you want to train your own models instead of using our pre-trained weights:
 
 ## ⚠️ Disclaimer
 VocalVitals is an AI screening tool and **NOT** a medical diagnostic device. Always consult a qualified healthcare professional.
+
+<-m pip install pandas update -->
